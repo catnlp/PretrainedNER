@@ -1,0 +1,7 @@
+.idea
+*.pyc
+outputs/
+prev_trained_model/
+*.bin
+*.data*
+*.ckpt
